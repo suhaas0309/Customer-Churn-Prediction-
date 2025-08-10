@@ -1,7 +1,7 @@
 ## Project Description
 This project focuses on predicting customer churn for a telecom company by analyzing customer usage data, billing information, and service interaction records. The goal is to identify at-risk customers and provide insights to reduce churn.
 
- --
+ ---
  
 ## Project Objective
 Build and evaluate multiple machine learning models to classify whether a customer will churn.
