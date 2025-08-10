@@ -1,4 +1,3 @@
-## Project Description
 This project focuses on predicting customer churn for a telecom company by analyzing customer usage data, billing information, and service interaction records. The goal is to identify at-risk customers and provide insights to reduce churn.
 
  ---
@@ -10,17 +9,18 @@ Identify the most important factors influencing churn.
 
 Recommend strategies to improve customer retention based on data insights.
 
+---
+
 ## Tools & Technologies
 Programming Language: Python
 
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
-Machine Learning Models: Logistic Regression, KNN, Decision Tree, Random Forest, SVM, AdaBoost, Voting Classifier
+Machine Learning Models: Logistic Regression, K Nearest Neighbours, Support Vector Machine
 
-Environment: Jupyter Notebook
+---
+
 ## Results
-Best Performing Models: Random Forest and Logistic Regression with high accuracy and balanced precision-recall.
-
-Key Churn Indicators: Customer Service Calls, Day Minutes, Monthly Charge.
+Best Performing Models: K Nearest Neighbours with 0.82 recall. 
 
 Achieved ~90% accuracy with the optimized models.
